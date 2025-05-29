@@ -61,8 +61,8 @@ pip install youtube-search
 
 1. Clone le projet :
    ```bash
-   git clone https://github.com/ton-utilisateur/assistant-vocal-youtube.git
-   cd assistant-vocal-youtube
+   git clone https://github.com/michaelLachand/Assistant-Vocal.git
+   cd Assistant-Vocal
    ```
 
 2. Crée un environnement virtuel :
@@ -87,9 +87,9 @@ pip install youtube-search
 ## 📦 Exemple d’usage
 
 1. L’utilisateur clique sur un bouton pour parler.
-2. Il dit par exemple : _"Recherche la chanson Imagine de John Lennon"_
+2. Il dit par exemple : _"Joue la chanson Imagine de John Lennon"_
 3. L’assistant répète la requête avec `pyttsx3`
-4. L'application affiche les résultats YouTube correspondants
+4. L'application affiche le 1er résultat YouTube correspondants
 
 ---
 
@@ -105,15 +105,6 @@ pyaudio
 
 ---
 
-## ✅ À faire / Améliorations possibles
-
-- Ouvrir automatiquement le lien YouTube dans le navigateur
-- Ajouter un lecteur audio intégré
-- Gérer plusieurs langues
-- Améliorer la précision de la reconnaissance vocale
-
----
-
 ## 🤝 Contribuer
 
 Les contributions sont les bienvenues ! Si vous avez des suggestions ou des bugs à signaler, n’hésitez pas à ouvrir une issue.
@@ -122,7 +113,7 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des bugs
 
 ## 🧑‍💻 Auteur
 
-Créé par **[Ton Prénom Nom]** – Passionné par l’IA, le Python et les assistants vocaux intelligents.
+Créé par Michael LACHAND – Passionné par l’IA, le Python et les assistants vocaux intelligents.
 
 ---
 
