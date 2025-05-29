@@ -1,0 +1,76 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.env/
+.venv/
+env/
+venv/
+
+# Fichiers de configuration d'environnement
+.env
+*.env
+
+# Outils Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Fichiers temporaires d'édition
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Sorties de tests/unitaires
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS / Linux
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers de build/distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# wheel files
+*.whl
+
+# Base de données SQLite
+*.sqlite3
+
+# MyPy / Pylint / autres linter
+.mypy_cache/
+.pyre/
+.pytype/
+pylint-report.txt
+
+# Docker
+*.pid
